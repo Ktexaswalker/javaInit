@@ -10,7 +10,6 @@ import java.util.Scanner;
  * @author hecto
  */
 public class UltimosIfs2 {
-
     /**2
      * Descuento en supermercado
      * inferior a 800 -> 0%

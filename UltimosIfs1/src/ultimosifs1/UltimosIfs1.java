@@ -5,7 +5,6 @@
  */
 package ultimosifs1;
 import java.util.Scanner;
-
 /**1
  * Calcular l’augment de sou al cap d’any a partir d’aquesta taula
  * inferior 18000 -> 12%
@@ -15,7 +14,6 @@ import java.util.Scanner;
  * @author hecto
  */
 public class UltimosIfs1 {
-
     /**
      * @param args the command line arguments
      */
@@ -41,5 +39,4 @@ public class UltimosIfs1 {
         System.out.println("Tu sueldo aumentara un: " + porcentaje + "%, que equivale a: " + diferencia + " Euros.");
         System.out.println("Tu futuro sueldo el año que viene sera de: " + futuro_sueldo);
     }
-    
 }
